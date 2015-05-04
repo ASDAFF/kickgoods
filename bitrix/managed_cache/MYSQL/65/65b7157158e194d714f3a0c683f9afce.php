@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001430735803';
+$dateexpire = '001430739403';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:25:{s:10:"asd.iblock";a:1:{s:2:"ID";s:10:"asd.iblock";}s:12:"bitrix.eshop";a:1:{s:2:"ID";s:12:"bitrix.eshop";}s:20:"bitrix.sitecorporate";a:1:{s:2:"ID";s:20:"bitrix.sitecorporate";}s:16:"bizsolutions.sms";a:1:{s:2:"ID";s:16:"bizsolutions.sms";}s:7:"catalog";a:1:{s:2:"ID";s:7:"catalog";}s:11:"compression";a:1:{s:2:"ID";s:11:"compression";}s:8:"currency";a:1:{s:2:"ID";s:8:"currency";}s:14:"edost.delivery";a:1:{s:2:"ID";s:14:"edost.delivery";}s:7:"fileman";a:1:{s:2:"ID";s:7:"fileman";}s:4:"form";a:1:{s:2:"ID";s:4:"form";}s:18:"garpun.advertising";a:1:{s:2:"ID";s:18:"garpun.advertising";}s:6:"iblock";a:1:{s:2:"ID";s:6:"iblock";}s:4:"main";a:1:{s:2:"ID";s:4:"main";}s:9:"mobileapp";a:1:{s:2:"ID";s:9:"mobileapp";}s:7:"perfmon";a:1:{s:2:"ID";s:7:"perfmon";}s:4:"pull";a:1:{s:2:"ID";s:4:"pull";}s:4:"sale";a:1:{s:2:"ID";s:4:"sale";}s:6:"search";a:1:{s:2:"ID";s:6:"search";}s:8:"security";a:1:{s:2:"ID";s:8:"security";}s:3:"seo";a:1:{s:2:"ID";s:3:"seo";}s:20:"shopolia.emailfields";a:1:{s:2:"ID";s:20:"shopolia.emailfields";}s:14:"socialservices";a:1:{s:2:"ID";s:14:"socialservices";}s:11:"storeassist";a:1:{s:2:"ID";s:11:"storeassist";}s:9:"translate";a:1:{s:2:"ID";s:9:"translate";}s:12:"webdebug.sms";a:1:{s:2:"ID";s:12:"webdebug.sms";}}}';
+return true;
+?>

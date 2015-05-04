@@ -1,0 +1,3 @@
+<?
+$MESS["GARPUN_ADVERTISING_EXTERNAL_UNKNOWN_ERROR"]="Неизвестная ошибка";
+$MESS["GARPUN_ADVERTISING_EXTERNAL_TIMEOUT_ERROR"]="Сервис временно недоступен";

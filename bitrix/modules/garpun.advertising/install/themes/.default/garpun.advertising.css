@@ -1,0 +1,487 @@
+/*Menu icon*/
+.garpun_advertising_menu_icon_index {background: url(icons/garpun.advertising_index.gif) no-repeat 10px 50%;}
+#garpun_advertising_menu_icon_index {background: url(icons/garpun.advertising_index.gif) no-repeat 10px 50%;}
+
+.garpun_advertising_logo_garpun, .garpun_advertising_logo_garpun1 {
+    float: right;
+    margin: 28px 0 5px 20px;
+    /*  */
+    /*right: -50px;*/
+}
+.adm-detail-content .garpun_advertising_logo_garpun{
+    position: relative;
+    right: -50px;
+}
+
+
+.garpun_advertising_clearAfter:after{
+    display: block;
+    height: 0;
+    clear: both;
+    content: "";
+}
+.garpun_advertising_white_space {
+    background-color: white;
+    padding-bottom: 10px;
+    padding: 12px 68px 12px 12px;
+}
+.garpun_advertising_garpun-wrapper{
+    font: normal 14px/12px "Myriad Pro", Helvetica, sans-serif;
+    color: #000;
+    margin-right: -50px;
+}
+.garpun_advertising_logo-wrapper{
+    position: relative;
+    float: right;
+    width: 300px;
+    text-align: right;
+    width: 315px;
+}
+.garpun_advertising_links_garpun{
+    font-size: 0;
+}
+.garpun_advertising_links_garpun > li{
+    display: inline-block;
+    font-size: 14px;
+    line-height: 12px;
+    padding: 0 6px;
+}
+.garpun_advertising_links_garpun > li:last-child{
+    padding-right: 0;
+}
+.garpun_advertising_logo_garpun {
+    margin: 13px 0 5px  ;
+    position: relative;
+}
+.garpun_advertising_system-message{
+    margin-right: 320px;
+}
+.garpun_advertising_system-message div{
+    margin-bottom: 5px;
+}
+.garpun_advertising_red-text{
+    color: #ff0000;
+}
+.garpun_advertising_clear {
+    clear: both;
+}
+.garpun_advertising_content_form {
+    position: relative;
+    width: 340px;
+    margin: 20px auto;
+    font-family: Helvetica, sans-serif;
+}
+.garpun_advertising_content_form .garpun_advertising_block_form {
+    background: #fff;
+    padding: 20px 20px 5px;
+    margin-bottom: 15px;
+}
+.garpun_advertising_content_form .garpun_advertising_block_form .garpun_advertising_item {
+    margin-bottom: 15px;
+}
+.garpun_advertising_content_form .garpun_advertising_block_form .garpun_advertising_item label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+.garpun_advertising_content_form .garpun_advertising_block_form .garpun_advertising_item input[type="text"],
+.garpun_advertising_content_form .garpun_advertising_block_form .garpun_advertising_item input[type="password"],
+.garpun_advertising_content_form .garpun_advertising_block_form .garpun_advertising_item input[type="email"]{
+    width: 288px;
+}
+.garpun_advertising_content_form .garpun_advertising_block_form .garpun_advertising_item .garpun_advertising_block_remember label {
+    display: block;
+    vertical-align: middle;
+    margin: 0;
+    font-size: 14px;
+    margin-left: 15px;
+}
+.garpun_advertising_content_form .garpun_advertising_block_remember input {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    float: left;
+    position: relative;
+    top: 2px;
+}
+.garpun_advertising_content_form .garpun_advertising_block_form .garpun_advertising_item .garpun_advertising_block_remember {
+    margin: 5px 0 0 0;
+}
+.garpun_advertising_content_form .garpun_advertising_link_btn {
+    float: left;
+    color: #000;
+    font-size: 14px;
+    margin-left: 20px;
+    position: relative;
+
+    top: 3px;
+}
+.garpun_advertising_content_form input[type="submit"] {
+    float: right;
+    width: 165px;
+    margin-bottom: 15px;
+}
+.garpun_advertising_content_form input.garpun_advertising_registration[type="submit"] {
+
+    width: 240px;
+
+}
+.garpun_advertising_content_form .garpun_advertising_restore_link {
+    float: right;
+    font-size: 12px;
+    color:#000;
+}
+.garpun_advertising_content_form.garpun_advertising_reg_form {
+    float: left;
+}
+.garpun_advertising_content_form.garpun_advertising_reg_form .garpun_advertising_block_form .garpun_advertising_item .garpun_advertising_block_remember label {
+    font-size: 12px;
+}
+.garpun_advertising_content_form.garpun_advertising_reg_form .garpun_advertising_block_form .garpun_advertising_item .garpun_advertising_block_remember {
+    margin-top: 15px;
+}
+.garpun_advertising_content_form .garpun_advertising_star {
+    color: #ff0000;
+    font-size: 16px;
+}
+.garpun_advertising_description_garpun_company {
+    float: right;
+    background: #f5f5f5;
+    background: -moz-linear-gradient(#fdfdfd, #f2f2f2); /* FF 3.6+ */  
+    background: -ms-linear-gradient(#fdfdfd, #f2f2f2); /* IE10 */  
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fdfdfd), color-stop(100%, #f2f2f2)); /* Safari 4+, Chrome 2+ */  
+    background: -webkit-linear-gradient(#fdfdfd, #f2f2f2); /* Safari 5.1+, Chrome 10+ */  
+    background: -o-linear-gradient(#fdfdfd, #f2f2f2); /* Opera 11.10 */  
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fdfdfd', endColorstr='#f2f2f2'); /* IE6 & IE7 */  
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#fdfdfd', endColorstr='#f2f2f2')"; /* IE8+ */  
+    background: linear-gradient(#fdfdfd, #f2f2f2); /* the standard */
+    border-bottom: 1px solid #fff;
+    padding: 15px 20px;
+    max-width: 680px;
+    font-size: 14px;
+    border-radius: 5px;
+    color: #555;
+    position: relative;
+}
+.garpun_advertising_content_form.garpun_advertising_reg_form {
+    margin-top: 0;
+}
+.garpun_advertising_description_garpun_company h2{
+    color: #ff6600;
+    margin-top: 0;
+}
+.garpun_advertising_description_garpun_company .garpun_advertising_big {
+    font-size: 16px;
+    line-height: 24px;
+}
+.garpun_advertising_description_garpun_company a {
+    color: #555;
+}
+.garpun_advertising_description_garpun_company:after {
+    content: '';
+    position: absolute;
+    bottom: -19px;
+    left: 0;
+    width: 100%;
+    height: 18px;
+    background: url("images/shadow_text.png") no-repeat 50% -22px;
+}
+.garpun_advertising_block_description {
+    margin-left: 375px;
+}
+.garpun_advertising_block_algoritm td{
+    padding: 0 0 20px;
+}
+.garpun_advertising_block_algoritm .garpun_advertising_title_algoritm {
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 4px;
+    display: block;
+}
+input.garpun_advertising_design_width {
+    width: 400px;
+}
+select.garpun_advertising_design_width {
+    width: 412px;
+}
+.garpun_advertising_block_algoritm .chosen-container {
+    width: 412px!important;
+}
+.chosen-container-multi .chosen-choices {
+    border-radius: 5px;
+}
+#bx-admin-prefix .adm-detail-content-item-block .garpun_advertising_block_system {
+    background: #fff;
+    border-collapse: collapse;
+    margin-bottom: 8px;
+}
+.garpun_advertising_block_system td {
+    border-top: 1px solid #e7e9eb;
+}
+.garpun_advertising_block_system th {
+    text-align: left;
+    font-size: 11px;
+    font-weight: normal;
+}
+.garpun_advertising_block_system th, .garpun_advertising_block_system td {
+    padding: 7px 35px;
+}
+.garpun_advertising_block_system tr td:last-child,
+.garpun_advertising_block_system tr th:last-child {
+    padding-left: 0;
+}
+.garpun_advertising_block_system .garpun_advertising_name {
+    font-weight: bold;
+    font-size: 14px;
+}
+.garpun_advertising_block_finished {
+    position: relative;
+    margin-bottom: 15px;
+}
+.garpun_advertising_block_finished .garpun_advertising_item{
+    margin-bottom: 30px;
+    position: relative;
+}
+.garpun_advertising_block_finished .garpun_advertising_item label {
+    color: #000;
+    font-size: 16px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.adm-workarea .garpun_advertising_block_finished  input[type="submit"] {
+    border: none;
+    /* border-top: 1px solid #fff; */
+    -webkit-box-shadow: 0 0 0 rgba(0,0,0,0);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+    background-color: transparent!important;;
+    background-image: none!important;
+    color: #000;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: normal;
+    height: auto!important;
+    text-shadow: 0 0 rgba(255,255,255,0);
+    text-decoration: underline;
+    position: relative;
+    vertical-align: middle;
+    -webkit-font-smoothing: antialiased;
+    padding: 0;
+    margin: 0 0 0 9px;
+
+}
+.adm-workarea .garpun_advertising_block_finished  input[type="submit"]:hover {
+    background-color: transparent!important;;
+    background-image: none!important;
+}
+.garpun_advertising_block_finished p {
+    margin: 0;
+    font-size: 17px;
+}
+.garpun_advertising_block_finished ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.garpun_advertising_block_finished ul li {
+    display: inline-block;
+    margin: 0 13px 0 0;
+    font-size: 12px;
+}
+.garpun_advertising_block_finished .garpun_advertising_item ul li label {
+    font-size: 12px;
+}
+.garpun_advertising_block_finished .garpun_advertising_item ul li label, .garpun_advertising_block_finished ul li input {
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0;
+}
+.garpun_advertising_block_finished ul li input {
+    margin: 0 5px 0 0;
+}
+
+
+
+
+.garpun_advertising_attention_text {
+    color: #5e5e5e;
+    font-size: 11px;
+    margin-bottom: 4px;
+    line-height: 16px;
+}
+.garpun_advertising_attention_text.garpun_advertising_bordered_block {
+    border-bottom: 1px solid #DDD;
+    padding-bottom: 14px;
+    margin-bottom: 16px;
+}
+.garpun_advertising_item_company .garpun_advertising_attention_text {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.garpun_advertising_title_algoritm.garpun_advertising_item_company .garpun_advertising_attention_text, .garpun_advertising_title_algoritm.garpun_advertising_item_company {
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+.garpun_advertising_page_complete {
+    position: relative;
+    text-align: center;
+    font-size: 13px;
+    padding: 20px 0;
+}
+.garpun_advertising_page_complete .garpun_advertising_title {
+    color: #ff5100;
+    font-size: 24px;
+}
+.garpun_advertising_page_complete p {
+    margin: 0 0 10px;
+}
+.garpun_advertising_page_complete img {
+    margin: 0 0 20px;
+}
+.garpun_advertising_page_complete .garpun_advertising_big {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.garpun_advertising_btn_balans {
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    border: none;
+    /* border-top: 1px solid #fff; */
+    -webkit-box-shadow: 0 0 1px rgba(0,0,0,.11), 0 1px 1px rgba(0,0,0,.3), inset 0 1px #fff, inset 0 0 1px rgba(255,255,255,.5);
+    box-shadow: 0 0 1px rgba(0,0,0,.3), 0 1px 1px rgba(0,0,0,.3), inset 0 1px 0 #fff, inset 0 0 1px rgba(255,255,255,.5);
+    background-color: #e0e9ec;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    /* line-height: 18px; */
+    height: 29px;
+
+    text-decoration: none;
+    position: relative;
+    vertical-align: middle;
+    -webkit-font-smoothing: antialiased;
+    line-height: 29px;     
+    padding: 0 5px;
+    min-width: 250px;
+}
+.garpun_advertising_btn_balans.garpun_advertising_orange {
+    -webkit-box-shadow: 0 1px 1px #878f92, 0 2px 0 #eab03d inset;
+    box-shadow: 0 1px 1px #878f92, 0 1px 0 #eab03d inset;
+    border-color: #d58500 #d58500 #d58500;
+    background: #f48b0c;
+    background: -moz-linear-gradient(#e69503, #fe8513); /* FF 3.6+ */  
+    background: -ms-linear-gradient(#e69503, #fe8513); /* IE10 */  
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e69503), color-stop(100%, #fe8513)); /* Safari 4+, Chrome 2+ */  
+    background: -webkit-linear-gradient(#e69503, #fe8513); /* Safari 5.1+, Chrome 10+ */  
+    background: -o-linear-gradient(#e69503, #fe8513); /* Opera 11.10 */  
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e69503', endColorstr='#fe8513'); /* IE6 & IE7 */  
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#e69503', endColorstr='#fe8513')"; /* IE8+ */  
+    background: linear-gradient(#e69503, #fe8513); /* the standard */
+}
+.garpun_advertising_btn_balans.garpun_advertising_orange:hover {
+    background: #f48b0c;
+    background: -moz-linear-gradient(#fe8513, #e69503); /* FF 3.6+ */  
+    background: -ms-linear-gradient(#fe8513, #e69503); /* IE10 */  
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fe8513), color-stop(100%, #e69503)); /* Safari 4+, Chrome 2+ */  
+    background: -webkit-linear-gradient(#fe8513, #e69503); /* Safari 5.1+, Chrome 10+ */  
+    background: -o-linear-gradient(#fe8513, #e69503); /* Opera 11.10 */  
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fe8513', endColorstr='#e69503'); /* IE6 & IE7 */  
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#fe8513', endColorstr='#e69503')"; /* IE8+ */  
+    background: linear-gradient(#fe8513, #e69503); /* the standard */
+    text-decoration: none;
+}
+.garpun_advertising_btn_balans.garpun_advertising_blue {
+    -webkit-box-shadow: 0 1px 1px #878f92, 0 2px 0 #3d81b7 inset;
+    box-shadow: 0 1px 1px #878f92, 0 2px 0 #3d81b7 inset;
+    border-color: #0064a9;
+
+
+
+
+    background: #f48b0c;
+    background: -moz-linear-gradient(#005aa1, #0073b7); /* FF 3.6+ */  
+    background: -ms-linear-gradient(#005aa1, #0073b7); /* IE10 */  
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #005aa1), color-stop(100%, #0073b7)); /* Safari 4+, Chrome 2+ */  
+    background: -webkit-linear-gradient(#005aa1, #0073b7); /* Safari 5.1+, Chrome 10+ */  
+    background: -o-linear-gradient(#005aa1, #0073b7); /* Opera 11.10 */  
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#005aa1', endColorstr='#0073b7'); /* IE6 & IE7 */  
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#005aa1', endColorstr='#0073b7')"; /* IE8+ */  
+    background: linear-gradient(#005aa1, #0073b7); /* the standard */
+}
+.garpun_advertising_btn_balans.garpun_advertising_blue:hover {
+    background: #f48b0c;
+    background: -moz-linear-gradient(#0073b7, #005aa1); /* FF 3.6+ */  
+    background: -ms-linear-gradient(#0073b7, #005aa1); /* IE10 */  
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #0073b7), color-stop(100%, #005aa1)); /* Safari 4+, Chrome 2+ */  
+    background: -webkit-linear-gradient(#0073b7, #005aa1); /* Safari 5.1+, Chrome 10+ */  
+    background: -o-linear-gradient(#0073b7, #005aa1); /* Opera 11.10 */  
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0073b7', endColorstr='#005aa1'); /* IE6 & IE7 */  
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#0073b7', endColorstr='#005aa1')"; /* IE8+ */  
+    background: linear-gradient(#0073b7, #005aa1); /* the standard */
+    text-decoration: none;
+}
+
+.garpun_advertising_pseudo
+{
+    position:relative;
+    text-decoration: none;
+}
+.garpun_advertising_pseudo:after
+{
+    content:"";
+    position:absolute;
+    width:100%;
+    left:0;
+    top:1em;
+    border-bottom: 1px dotted;
+}
+
+.garpun_advertising_links_garpun > li > a {
+    text-decoration: none;
+    border-bottom: 1px solid #2675d7;
+}
+.garpun_advertising_links_garpun > li.garpun_advertising_ps:last-child > a {
+    border-bottom: 1px dashed #2675d7;
+}
+.garpun_advertising_links_garpun > li.garpun_advertising_ps > a.garpun_advertising_pseudo {
+    border-bottom: 1px dashed #2675d7;
+}
+
+
+.adm-detail-content .garpun_advertising_white_space {
+    padding: 0;
+}
+.adm-detail-content .garpun_advertising_logo_garpun {
+    right: 0;
+}
+
+.garpun_advertising_content_form .garpun_advertising_logon {
+    display: block;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+.garpun_advertising_content_form hr {
+    background: #c4ced2;
+    width: 100%;
+    height: 1px;
+    border: 0;
+    outline:  0;
+}
+.garpun_advertising_content_form h4 {
+    font-size: 16px;
+    padding-left: 17px;
+    font-weight: normal;
+}
+
+.adm-workarea a.garpun_advertising_logon
+{
+  white-space: nowrap;
+}

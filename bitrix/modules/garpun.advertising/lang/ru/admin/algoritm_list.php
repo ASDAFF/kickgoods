@@ -1,0 +1,18 @@
+<?
+$MESS["GARPUN_ALGORITM_ROWS_ADD_NEW_BUTTON"] = "Добавить кампанию";
+$MESS["GARPUN_ADVERTISING_ALGORITM_STATE_N"] = "Не связана с Garpun";
+$MESS["GARPUN_ADVERTISING_ALGORITM_STATE_D"] = "Идет генерация алгоритма";
+$MESS["GARPUN_ADVERTISING_ALGORITM_STATE_R"] = "Рекламная кампания готова к запуску";
+$MESS["GARPUN_ADVERTISING_ALGORITM_STATE_S"] = "Рекламная кампания загружена";
+$MESS["GARPUN_ADVERTISING_ALGORITM_STATE_S_NEVER"] = "Рекламная кампания снята с обновления";
+
+$MESS["GARPUN_ADVERTISING_ALGORITM_TYPE_ALGORITM_C"] = "Генерирует система";
+$MESS["GARPUN_ADVERTISING_ALGORITM_TYPE_ALGORITM_Y"] = "Указан пользователем";
+
+$MESS["GARPUN_ADVERTISING_ALGORITM_LST_HEADER_GEO"] = "Гео таргетинг";
+$MESS["GARPUN_ADVERTISING_ALGORITM_LST_HEADER_ALGORITM_TYPE"] = "Тип кампании";
+$MESS["GARPUN_ADVERTISING_ALGORITM_LST_HEADER_ENGINE_SETTING"] = "Внешняя система";
+$MESS["GARPUN_ADVERTISING_ALGORITM_LST_HEADER_UPDATE_TIME"] = "Период обновления рекламной кампании";
+
+$MESS["GARPUN_ADVERTISING_ALGORITM_LST_HEADER_NAME"] = "Мои кампании";
+?>

@@ -1,0 +1,12 @@
+<?
+$MESS['WEBDEBUG_SMS_PAGE_TITLE'] = 'Просмотр истории сообщений';
+
+$MESS['WEBDEBUG_SMS_HEADER_ID'] = 'ID';
+$MESS['WEBDEBUG_SMS_HEADER_RECEIVER'] = 'Получатель';
+$MESS['WEBDEBUG_SMS_HEADER_SENDER'] = 'Отправитель';
+$MESS['WEBDEBUG_SMS_HEADER_MESSAGE'] = 'Текст сообщения';
+$MESS['WEBDEBUG_SMS_HEADER_EVENT'] = 'Событие';
+$MESS['WEBDEBUG_SMS_HEADER_PROVIDER'] = 'SMS-провайдер';
+$MESS['WEBDEBUG_SMS_HEADER_DATETIME'] = 'Дата и время';
+
+?>

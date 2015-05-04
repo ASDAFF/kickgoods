@@ -1,0 +1,49 @@
+<?
+$MESS['WEBDEBUG_SMS_SEND_PAGE_TITLE'] = 'Шаблоны SMS-сообщений';
+
+$MESS['WEBDEBUG_SMS_TOOLBAR_ADD_NAME'] = 'Добавить';
+	$MESS['WEBDEBUG_SMS_TOOLBAR_ADD_DESC'] = 'Добавить SMS-шаблон';
+
+$MESS['WEBDEBUG_SMS_FILTER_ID'] = 'ID';
+$MESS['WEBDEBUG_SMS_FILTER_NAME'] = 'Название';
+$MESS['WEBDEBUG_SMS_FILTER_ACTIVE'] = 'Активность';
+	$MESS['WEBDEBUG_SMS_FILTER_ACTIVE_Y'] = 'да';
+	$MESS['WEBDEBUG_SMS_FILTER_ACTIVE_N'] = 'нет';
+	$MESS['WEBDEBUG_SMS_FILTER_ACTIVE_ANY'] = '--- не имеет значения ---';
+$MESS['WEBDEBUG_SMS_FILTER_SORT'] = 'Сортировка';
+$MESS['WEBDEBUG_SMS_FILTER_DESCRIPTION'] = 'Описание';
+$MESS['WEBDEBUG_SMS_FILTER_TEMPLATE'] = 'Шаблон';
+$MESS['WEBDEBUG_SMS_FILTER_RECEIVER'] = 'Получатель';
+$MESS['WEBDEBUG_SMS_FILTER_EVENT'] = 'Событие';
+
+$MESS['WEBDEBUG_SMS_HEADER_ID'] = 'ID';
+$MESS['WEBDEBUG_SMS_HEADER_NAME'] = 'Название';
+$MESS['WEBDEBUG_SMS_HEADER_ACTIVE'] = 'Активность';
+$MESS['WEBDEBUG_SMS_HEADER_SORT'] = 'Сортировка';
+$MESS['WEBDEBUG_SMS_HEADER_DESCRIPTION'] = 'Описание';
+$MESS['WEBDEBUG_SMS_HEADER_TEMPLATE'] = 'Шаблон';
+$MESS['WEBDEBUG_SMS_HEADER_RECEIVER'] = 'Получатель';
+$MESS['WEBDEBUG_SMS_HEADER_EVENT'] = 'Событие';
+$MESS['WEBDEBUG_SMS_HEADER_STOP'] = 'Отменять отправку';
+$MESS['WEBDEBUG_SMS_HEADER_RECEIVER_FROM_EMAIL'] = 'Телефон по E-mail';
+$MESS['WEBDEBUG_SMS_HEADER_EMAIL_FIELD'] = 'Поле для E-mail';
+	
+$MESS['WEBDEBUG_SMS_CONTEXT_EDIT'] = 'Редактировать';
+$MESS['WEBDEBUG_SMS_CONTEXT_COPY'] = 'Копировать';
+$MESS['WEBDEBUG_SMS_CONTEXT_DELETE'] = 'Удалить';
+$MESS['WEBDEBUG_SMS_CONTEXT_DELETE_CONFIRM'] = 'Удалить шаблон \"%s\"?';
+
+$MESS['WEBDEBUG_SMS_FILTER_EVENT_ANY'] = '--- не имеет значения ---';
+$MESS['WEBDEBUG_SMS_ROW_EVENT_EMPTY'] = '--- не выбран ---';
+
+
+
+
+
+
+
+
+
+
+
+?>

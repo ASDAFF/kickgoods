@@ -1,0 +1,137 @@
+2015-Jan-27 15:54:01 Наличие необходимых модулей php (check_php_modules): Ok
+Все необходимые модули установлены
+2015-Jan-27 15:54:01 Обязательные параметры PHP (check_php_settings): Ok
+Настройки правильные
+2015-Jan-27 15:54:01 Модули веб-сервера (check_security): Ok
+Конфликтов не выявлено
+2015-Jan-27 15:54:01 Значения переменных сервера (check_server_vars): Ok
+Корректные
+2015-Jan-27 15:54:01 Сохранение сессии (check_session): Ok
+50% done
+2015-Jan-27 15:54:01 Сохранение сессии (check_session): Ok
+Успешно
+2015-Jan-27 15:54:01 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+Правильные. Сайт работает в UTF кодировке
+2015-Jan-27 15:54:02 Работа с сокетами (check_socket): Fail
+Connection to 2015.kickgoods.ru:80	Fail
+Socket error [0]: php_network_getaddresses: getaddrinfo failed: Name or service not known
+
+Ошибка! Не работает
+2015-Jan-27 15:54:02 Параметры подключения к базе данных (check_dbconn_settings): Ok
+Успешно
+2015-Jan-27 15:54:02 Лишний вывод в файлах конфигурации (check_dbconn): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:02 Выполнение агентов на cron (check_bx_crontab): Warning
+Замечание. Агенты выполняются на хитах, рекомендуется перевести выполнение агентов на cron
+2015-Jan-27 15:54:02 Сохранение сессии без UserAgent (check_session_ua): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:02 Настройки сайтов (check_sites): Ok
+Правильные
+2015-Jan-27 15:54:02 Служебные скрипты в корне сайта (check_install_scripts): Ok
+Отсутствуют
+2015-Jan-27 15:54:02 Передача объектов по ссылке (check_clone): Ok
+Успешно
+2015-Jan-27 15:54:02 Размер стека и pcre.recursion_limit (check_pcre_recursion): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:02 Вызов method_exists на строке (check_method_exists): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:02 Загрузка файла (check_upload): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:02 Загрузка файла больше 4Мб (check_upload_big): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:03 Загрузка файла через php://input (check_upload_raw): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:03 Передача POST запроса с большим числом параметров (check_post): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:03 Отправка почты (check_mail): Ok
+Успешно
+2015-Jan-27 15:54:03 Отправка почтового сообщения больше 64Кб (check_mail_big): Ok
+Успешно
+2015-Jan-27 15:54:03 Проверка на наличие неотправленных сообщений (check_mail_b_event): Ok
+Успешно
+2015-Jan-27 15:54:03 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:03 Фактическое ограничение памяти (check_memory_limit): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:03 Работа с файлами кеша (check_cache): Ok
+Успешно
+2015-Jan-27 15:54:04 Доступ к серверу обновлений (check_update): Ok
+Успешно
+2015-Jan-27 15:54:04 HTTP авторизация (check_http_auth): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:04 Создание и запуск файла (check_exec): Warning
+Замечание. Не удалось проверить из-за ошибки в работе с сокетами
+2015-Jan-27 15:54:04 Функция getimagesize для swf (check_getimagesize): Ok
+Успешно
+2015-Jan-27 15:54:04 Версия MySQL сервера (check_mysql_bug_version): Ok
+Успешно
+2015-Jan-27 15:54:05 Время на БД и веб сервере (check_mysql_time): Ok
+Успешно
+2015-Jan-27 15:54:05 Режим работы MySQL (check_mysql_mode): Ok
+Успешно
+2015-Jan-27 15:54:05 Кодировка соединения (check_mysql_connection_charset): Ok
+character_set_connection=utf8, collation_connection=utf8_unicode_ci, character_set_results=utf8
+Успешно
+2015-Jan-27 15:54:05 Кодировка базы данных (check_mysql_db_charset): Ok
+CHARSET=utf8, COLLATION=utf8_unicode_ci
+Успешно
+2015-Jan-27 15:54:05 Кодировки таблиц в БД (check_mysql_table_charset): Ok
+Успешно
+2015-Jan-27 15:54:08 Структура базы данных (check_mysql_table_structure): Ok
+0% done
+2015-Jan-27 15:54:08 Структура базы данных (check_mysql_table_structure): Ok
+3% done
+2015-Jan-27 15:54:08 Структура базы данных (check_mysql_table_structure): Ok
+7% done
+2015-Jan-27 15:54:08 Структура базы данных (check_mysql_table_structure): Ok
+10% done
+2015-Jan-27 15:54:09 Структура базы данных (check_mysql_table_structure): Ok
+14% done
+2015-Jan-27 15:54:10 Структура базы данных (check_mysql_table_structure): Ok
+17% done
+2015-Jan-27 15:54:10 Структура базы данных (check_mysql_table_structure): Ok
+21% done
+2015-Jan-27 15:54:10 Структура базы данных (check_mysql_table_structure): Ok
+25% done
+2015-Jan-27 15:54:10 Структура базы данных (check_mysql_table_structure): Ok
+28% done
+2015-Jan-27 15:54:10 Структура базы данных (check_mysql_table_structure): Ok
+32% done
+2015-Jan-27 15:54:10 Структура базы данных (check_mysql_table_structure): Ok
+35% done
+2015-Jan-27 15:54:11 Структура базы данных (check_mysql_table_structure): Ok
+39% done
+2015-Jan-27 15:54:12 Структура базы данных (check_mysql_table_structure): Ok
+42% done
+2015-Jan-27 15:54:17 Структура базы данных (check_mysql_table_structure): Ok
+46% done
+2015-Jan-27 15:54:19 Структура базы данных (check_mysql_table_structure): Ok
+50% done
+2015-Jan-27 15:54:20 Структура базы данных (check_mysql_table_structure): Ok
+53% done
+2015-Jan-27 15:54:20 Структура базы данных (check_mysql_table_structure): Ok
+57% done
+2015-Jan-27 15:54:21 Структура базы данных (check_mysql_table_structure): Ok
+60% done
+2015-Jan-27 15:54:23 Структура базы данных (check_mysql_table_structure): Ok
+64% done
+2015-Jan-27 15:54:24 Структура базы данных (check_mysql_table_structure): Ok
+67% done
+2015-Jan-27 15:54:25 Структура базы данных (check_mysql_table_structure): Ok
+71% done
+2015-Jan-27 15:54:26 Структура базы данных (check_mysql_table_structure): Ok
+75% done
+2015-Jan-27 15:54:31 Структура базы данных (check_mysql_table_structure): Ok
+78% done
+2015-Jan-27 15:54:31 Структура базы данных (check_mysql_table_structure): Ok
+82% done
+2015-Jan-27 15:54:31 Структура базы данных (check_mysql_table_structure): Ok
+85% done
+2015-Jan-27 15:54:31 Структура базы данных (check_mysql_table_structure): Ok
+89% done
+2015-Jan-27 15:54:33 Структура базы данных (check_mysql_table_structure): Ok
+92% done
+2015-Jan-27 15:54:33 Структура базы данных (check_mysql_table_structure): Ok
+96% done
+2015-Jan-27 15:54:33 Структура базы данных (check_mysql_table_structure): Ok
+Успешно

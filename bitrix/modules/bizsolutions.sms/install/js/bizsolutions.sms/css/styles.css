@@ -1,0 +1,126 @@
+
+
+span.task_event_HIGH {
+    color: red;
+}
+
+span.task_event_MIDDLE {
+    color: green;
+}
+
+span.task_event_LOW {
+    color: grey;
+}
+
+tr.subheading {
+    background-color: #e0e8ea;
+    border-top: 11px solid #F5F9F9;
+    border-bottom: 11px solid #F5F9F9;
+    color: #4b6267;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center!important;
+    text-shadow: 0 1px #fff;
+    padding: 8px 4px 10px!important;
+}
+
+tr.subheading td.valueColumn {
+    background-color: #e0e8ea;
+    border-top: 11px solid #F5F9F9;
+    border-bottom: 11px solid #F5F9F9;
+    color: #4b6267;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left!important;
+    text-shadow: 0 1px #fff;
+    padding: 8px 4px 10px!important;
+}
+
+tr.subheading td.blankColumn {
+    background-color: #e0e8ea;
+    border-top: 11px solid #F5F9F9;
+    border-bottom: 11px solid #F5F9F9;
+    color: #4b6267;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left!important;
+    text-shadow: 0 1px #fff;
+    padding: 8px 4px 10px!important;
+}
+
+tr.subheading td.labelColumn {
+    background-color: #e0e8ea;
+    border-top: 11px solid #F5F9F9;
+    border-bottom: 11px solid #F5F9F9;
+    color: #4b6267;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: right!important;
+    text-shadow: 0 1px #fff;
+    padding: 8px 4px 10px!important;
+}
+
+tr.subheading td.subheading {
+    background-color: #e0e8ea;
+    border-top: 11px solid #F5F9F9;
+    border-bottom: 11px solid #F5F9F9;
+    color: #4b6267;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center!important;
+    text-shadow: 0 1px #fff;
+    padding: 8px 4px 10px!important;
+}
+
+.adm-filter-box-sizing{
+	width: 300px;
+	margin: 0 auto;
+}
+
+tr.optionsCenter {
+	text-align: center!important;
+}
+
+tr.options td.valueColumn {
+	text-align: left!important;
+}
+
+.message-edit-link {
+    background-image: url(/bitrix/images/bizsolutions.sms/message-edit-link.png);
+    background-position: 5px center;
+    background-repeat: no-repeat;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    width: 21px;
+    height: 16px;
+}
+
+.blankColumn {
+    width: 15%;
+}
+
+.labelColumn {
+    width: 35%;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.valueColumn {
+    width: 50%;
+}
+
+#partsCountDiv {
+    text-align: right;
+    width: 78px!important;
+}
+
+#messageLengthDiv, #partSizeDiv, #partsCountDiv {
+    width: 140px;
+    float: left;
+    position: relative;
+    font-size: 10px;
+}
+
+

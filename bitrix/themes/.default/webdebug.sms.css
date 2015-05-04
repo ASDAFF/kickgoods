@@ -1,0 +1,24 @@
+/* Main admin menus */
+#webdebug_sms_icon_17_main {background-image:url("icons/webdebug.sms/icon_17_main.png");}
+#webdebug_sms_icon_17_templates {background-image:url("icons/webdebug.sms/icon_17_templates.png");}
+#webdebug_sms_icon_17_send {background-image:url("icons/webdebug.sms/icon_17_send.png");}
+#webdebug_sms_icon_17_balance {background-image:url("icons/webdebug.sms/icon_17_balance.png");}
+#webdebug_sms_icon_17_history {background-image:url("icons/webdebug.sms/icon_17_history.png");}
+
+/* Bitrix 12 */
+.webdebug_sms_icon_17_main {background:url("icons/webdebug.sms/icon_17_main.png") 10px 3px no-repeat !important;}
+.webdebug_sms_icon_17_templates {background:url("icons/webdebug.sms/icon_17_templates.png") 10px 3px no-repeat !important;}
+.webdebug_sms_icon_17_send {background:url("icons/webdebug.sms/icon_17_send.png") 10px 3px no-repeat !important;}
+.webdebug_sms_icon_17_balance {background:url("icons/webdebug.sms/icon_17_balance.png") 10px 3px no-repeat !important;}
+.webdebug_sms_icon_17_history {background:url("icons/webdebug.sms/icon_17_history.png") 10px 3px no-repeat !important;}
+
+.webdebug-sms-options-block p {font-size:120%;}
+.webdebug-sms-options-block p.label {margin:0;}
+.webdebug-sms-options-block p.field {margin:0 0 12px;}
+.webdebug-sms-options-block p.small {font-size:100%;}
+.webdebug-sms-options-block p.success {color:green; font-weight:bold;}
+.webdebug-sms-options-block textarea {resize:none;}
+p.standart-text {font-size:120%;}
+#sms_text_area {resize:vertical;}
+
+.webdebug_sms_register_icon {background:url("icons/webdebug.sms/register.png") center center no-repeat; display:inline-block; float:left; height:16px; margin-right:6px; width:16px;}

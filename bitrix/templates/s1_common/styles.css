@@ -1,0 +1,82 @@
+/* */
+
+.bx-core-waitwindow
+{
+	display: none !important;
+}
+
+
+
+/* */
+
+div.preorder-form
+{
+	padding: 0;
+	margin: 40px 0 0 5px;
+	
+	width: 100%;
+}
+
+div.preorder-form div.preorder-form-header
+{
+	font-size: 20px;
+	font-weight: bold;
+	
+	padding: 0;
+	margin: 0 0 10px 0;
+}
+
+div.preorder-form div.preorder-form-descr
+{
+	font-size: 13px;
+	line-height: 16px;
+	
+	color: #9E9E9E;
+	
+	text-align: justify;
+	
+	padding: 0;
+	margin: 0 0 20px 0;
+}
+
+div.preorder-form table
+{
+	border-collapse: collapse;
+
+	width: 100%;
+
+	padding: 0;
+	margin: 0;
+}
+
+div.preorder-form table th
+{
+	font-weight: normal;
+	text-align: left;
+	font-style: italic;
+
+	padding: 0 10px 10px 0;
+	margin: 0;
+}
+
+div.preorder-form table td
+{
+	width: 100%;
+
+	padding: 0 0 10px 0;
+	margin: 0;
+}
+
+div.preorder-form input[type=text]
+{
+	padding: 7px;
+	margin: 0;
+	
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+
+	width: 100%;
+}
+
+

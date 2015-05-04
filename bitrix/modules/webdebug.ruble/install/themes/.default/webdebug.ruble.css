@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "WD_ALSRuble";
+	src: url('webdebug.ruble.font/ruble.eot');
+	src: url('webdebug.ruble.font/ruble.eot?#iefix') format('embedded-opentype'),
+			 url('webdebug.ruble.font/ruble.woff') format('woff'),
+			 url('webdebug.ruble.font/ruble.ttf') format('truetype'),
+			 url('webdebug.ruble.font/ruble.svg#ALSRublRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+ruble, .webdebug-ruble-symbol {font-family:"WD_ALSRuble" !important; text-transform:lowercase !important;}
